@@ -1,7 +1,7 @@
 body {
   margin: 20px 50px 20px 50px;
   background-image: url(stickman.png);
-  background-color: grey;
+  background-attachment: fixed;
 }
 .jumborton {
   text-align: center;
