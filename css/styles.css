@@ -1,0 +1,10 @@
+body {
+  background-color: grey;
+  margin: 20px 50px 20px 50px;
+}
+.jumborton {
+  text-align: center;
+}
+#devtitle {
+  font-weight: bolder;
+}
