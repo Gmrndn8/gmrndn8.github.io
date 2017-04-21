@@ -1,10 +1,15 @@
 body {
-  background-color: grey;
   margin: 20px 50px 20px 50px;
+  background-color: grey;
+  background-image: url(stickman.png);
 }
 .jumborton {
   text-align: center;
 }
 #devtitle {
   font-weight: bolder;
+}
+#first {
+  text-decoration: none;
+  color: black;
 }
